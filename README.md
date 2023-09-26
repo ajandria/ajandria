@@ -19,5 +19,5 @@ R/Shiny:
 - https://github.com/ajandria/r-shiny-dendrogram-sketcher
 - https://github.com/ajandria/r-shiny-pca-explorer
 
-scRNA-seq: workflow and analyses performed over some time:
+scRNA-seq commitment:
 - https://github.com/ajandria/workflows-scrna
