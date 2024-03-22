@@ -9,7 +9,7 @@ Nextflow DSL2 pipeline: Uniformal bulk RNA-seq approach with the end goal of dif
 R Package: incorporated into the Nextflow pipeline via Docker container for downstream analyses and interactive HTML report generation
 - https://github.com/ajandria/futuriandgeDownstream
 
-R/Shiny: 
+WIP: 
 - https://github.com/ajandria/futurian-explorer
 - https://github.com/ajandria/r-shiny-lolipopper
 - https://github.com/ajandria/r-shiny-dge-explorer
@@ -18,6 +18,4 @@ R/Shiny:
 - https://github.com/ajandria/r-shiny-correlation-matrix
 - https://github.com/ajandria/r-shiny-dendrogram-sketcher
 - https://github.com/ajandria/r-shiny-pca-explorer
-
-scRNA-seq commitment:
 - https://github.com/ajandria/workflows-scrna
