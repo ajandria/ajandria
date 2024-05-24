@@ -10,12 +10,5 @@ R Package: incorporated into the Nextflow pipeline via Docker container for down
 - https://github.com/ajandria/futuriandgeDownstream
 
 WIP: 
-- https://github.com/ajandria/futurian-explorer
-- https://github.com/ajandria/r-shiny-lolipopper
-- https://github.com/ajandria/r-shiny-dge-explorer
-- https://github.com/ajandria/r-shiny-volcano-viewer
-- https://github.com/ajandria/r-shiny-heatmapper
-- https://github.com/ajandria/r-shiny-correlation-matrix
-- https://github.com/ajandria/r-shiny-dendrogram-sketcher
-- https://github.com/ajandria/r-shiny-pca-explorer
-- https://github.com/ajandria/workflows-scrna
+- R/Shiny application with aggregated modules for DGE result exploration
+- scRNA-seq applications
