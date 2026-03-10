@@ -8,7 +8,3 @@ Nextflow DSL2 pipeline: Uniformal bulk RNA-seq approach with the end goal of dif
 
 R Package: incorporated into the Nextflow pipeline via Docker container for downstream analyses and interactive HTML report generation
 - https://github.com/ajandria/futuriandgeDownstream
-
-WIP: 
-- R/Shiny application with aggregated modules for DGE result exploration
-- scRNA-seq applications
